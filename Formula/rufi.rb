@@ -1,8 +1,8 @@
 class Rufi < Formula
     desc "A fast application launcher for macOS"
     homepage "https://github.com/darwin808/rufi"
-    url "https://github.com/darwin808/rufi/releases/download/v0.3.0/rufi-macos.tar.gz"
-    sha256 "4838f8917e1908edb9e55e8bab630bea60cbf8cad678d3c0fd75b5ac2d482a19"
+    url "https://github.com/darwin808/rufi/releases/download/v0.4.0/rufi-macos.tar.gz"
+    sha256 "a30b53afe298b5e64eb2f52ff0963204f80f1b31db7046997c5de0cbfc56e5e5"
     license "MIT"
 
     depends_on :macos
